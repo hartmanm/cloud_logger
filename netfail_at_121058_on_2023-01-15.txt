@@ -1,0 +1,7 @@
+
+Internet connected: NO
+
+NETWORK DOWN at 121058 on 2023-01-15
+
+NETFAIL: 1
+

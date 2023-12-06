@@ -1,0 +1,7 @@
+
+Internet connected: NO
+
+NETWORK DOWN at 212808 on 2023-04-21
+
+NETFAIL: 1
+

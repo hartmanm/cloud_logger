@@ -1,0 +1,7 @@
+
+Internet connected: NO
+
+NETWORK DOWN at 023056 on 2022-12-04
+
+NETFAIL: 1
+
