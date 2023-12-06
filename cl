@@ -4,7 +4,9 @@
 # add to (sudo nano /etc/rc.local in linux)
 #screen -dmS cl -L /Users/<computername>/Library/Mobile\ Documents/com\~apple\~CloudDocs/DEV/cloud_logger/cloud_logger
 
-COMPUTER_NAME="macmini"
+sleep 5
+
+COMPUTER_NAME="macpro_m1"
 CLOUD_LOG()
 {
 BULLET="${OUT_CL}"
