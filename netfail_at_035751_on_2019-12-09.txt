@@ -1,7 +1,0 @@
-
-Internet connected: NO
-
-NETWORK DOWN at 035751 on 2019-12-09
-
-NETFAIL: 1
-

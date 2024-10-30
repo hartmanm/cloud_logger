@@ -1,7 +1,0 @@
-
-Internet connected: NO
-
-NETWORK DOWN at 041532 on 2019-12-12
-
-NETFAIL: 1
-

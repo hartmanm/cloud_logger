@@ -1,5 +1,0 @@
-
-boot on 2023-01-13 at 200351
-
-Internet connected: YES
-

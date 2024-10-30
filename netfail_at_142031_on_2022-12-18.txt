@@ -1,7 +1,0 @@
-
-Internet connected: NO
-
-NETWORK DOWN at 142031 on 2022-12-18
-
-NETFAIL: 1
-

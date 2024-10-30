@@ -1,7 +1,0 @@
-
-Internet connected: NO
-
-NETWORK DOWN at 180520 on 2020-08-22
-
-NETFAIL: 1
-

@@ -1,5 +1,0 @@
-
-boot on 2020-07-25 at 111802
-
-Internet connected: YES
-

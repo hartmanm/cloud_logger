@@ -1,7 +1,0 @@
-
-Internet connected: NO
-
-NETWORK DOWN at 194613 on 2019-12-09
-
-NETFAIL: 1
-

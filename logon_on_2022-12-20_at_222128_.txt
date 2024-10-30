@@ -1,5 +1,0 @@
-
-boot on 2022-12-20 at 222128
-
-Internet connected: YES
-
