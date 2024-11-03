@@ -1,5 +1,9 @@
 #!/bin/bash
 
+# Copyright (c) 2019 Michael Neill Hartman. All rights reserved.
+# mnh_license@proton.me
+# https://github.com/hartmanm
+
 # macOS change <computername> here and in launcher; then add launcher to startup
 # add to (sudo nano /etc/rc.local in linux)
 #screen -dmS cl -L /Users/<computername>/Library/Mobile\ Documents/com\~apple\~CloudDocs/DEV/cloud_logger/cloud_logger
